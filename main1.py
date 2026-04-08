@@ -59,9 +59,7 @@ print(id(message))
 username = "Hadi"
 value = " Hadi"
 
-print(value is username)    
-
-print("hello kaise ho ")    
+print(value is username)   
       
       
       
