@@ -11,7 +11,8 @@ finally:
     loading = False
     print("This will always execute")
     
-print("HEllo World after the error", lastName)
+
+print("HEllo World after the error")
 print("2nd exception occurd", e)  
 print("HEllo World after the error")
 print("HEllo World after the error")
