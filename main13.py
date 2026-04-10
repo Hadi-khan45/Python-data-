@@ -13,7 +13,7 @@ finally:
     
 
 print("HEllo World after the error")
-print("2nd exception occurd", e)  
+print("2nd exception occurd")  
 print("HEllo World after the error")
 print("HEllo World after the error")
 print("HEllo World after the error")
